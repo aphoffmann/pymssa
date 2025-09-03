@@ -1,13 +1,28 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.4
 Name: pymssa
 Version: 0.1.0
 Summary: Multivariate Singular Spectrum Analysis (MSSA)
 Home-page: https://github.com/kieferk/pymssa.git
 Author: Kiefer Katovich
 Author-email: kiefer.katovich@gmail.com
-License: UNKNOWN
-Description: UNKNOWN
 Keywords: Python Multivariate Singular Spectrum Analysis MSSA
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.7
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pytest
+Requires-Dist: scipy
+Requires-Dist: numba
+Requires-Dist: tqdm
+Requires-Dist: matplotlib
+Requires-Dist: toolz
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

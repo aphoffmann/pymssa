@@ -14,6 +14,7 @@ REQUIREMENTS = [
     'tqdm',
     'matplotlib',
     'toolz',
+    'scikit-learn'
 ]
 
 
